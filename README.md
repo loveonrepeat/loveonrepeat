@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
- meㅤnㅤ<a href="github.com/preferredaskyan">@preferredaskyan</a>
+ meㅤnㅤ<a href="https://github.com/preferredaskyan">@preferredaskyan</a>
 
 <p align="center">
   <img
